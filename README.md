@@ -1,16 +1,21 @@
-# flutter_helloword_getx
 
-A new Flutter project.
+# Counting app
 
-## Getting Started
+Mini App 01 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/%2B.jpg)
+![image](https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/-.jpg)
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev)
+- Flutter
+-   Dart
+- GetX
+## library
 
-A few resources to get you started if this is your first Flutter project:
+Run this command:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  flutter pub add get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
