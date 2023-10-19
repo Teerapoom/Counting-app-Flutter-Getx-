@@ -3,8 +3,9 @@
 
 Mini App 01 
 
-![image](https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/%2B.jpg)
-![image](https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/-.jpg)
+<img src="https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/%2B.jpg" width="200" style="margin-right: 20px;"/>
+<img src="https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/-.jpg" width="200" style="margin-right: 20px;"/>
+
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev)
 - Flutter
